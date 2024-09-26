@@ -15,6 +15,8 @@
 * (ctrl + +) : input current date
 * (ctrl + -) : minimize the window
 * (ctrl + z) : undo
+* (ctrl + g) : jump to bottom of document
+* (ctrl + shift + g) : jump back to top of document
 
 
 *Note: Can be useful in linux to add the text editor to a bash alias for quick use in any directory.*
